@@ -1,6 +1,6 @@
 {
   "name": "first-electron-app",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "First electron app following tutorial from the docs",
   "keywords": [
     "electron"
