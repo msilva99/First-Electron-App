@@ -2,7 +2,9 @@ body {
    margin: 0;
    width: 100vw;
    height: 100vh;
-   background-color: rgb(191, 222, 236);
+   background-color: #ebffc6;
+   /* background-color: #fad8de; */
+   /* background-color: #bfdeec; */
    display: flex;
    flex-direction: column;
    justify-content: center;
@@ -17,7 +19,9 @@ body {
 }
 
 button {
-   background-color: #ecd8cf;
+   background-color: #afc480;
+   /* background-color: #9c756b; */
+   /* background-color: #ecd8cf; */
    color: #2b1d1b;
    border: 2px solid #382724;
    font-weight: 600;
